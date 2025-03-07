@@ -15,5 +15,5 @@ This batch script performs basic **system health checks** and **network troubles
 2. Double-click to run the script (Windows will execute it)  
 3. View the generated **`system_diagnostics.log`** file for details  
 
-## 📎 GitHub Link: [Your Repo Link Here]
+## 📎 GitHub Link: (https://github.com/Tiwari-123/System-Diagnostics-Tool/tree/main)
 
